@@ -36,3 +36,87 @@
     transform: rotate(360deg);
   }
 }
+.react-tabs__tab--selected{
+  margin-right: 50px;
+}
+.abc{
+  display: content;
+  margin-right: 50px;
+}
+.bac{
+  display:inline-flex;
+  box-sizing: none;
+}
+.pointer{
+  cursor: pointer;
+}
+.over:hover{
+  text-decoration: underline;
+}
+.left{
+  float: left;
+}
+/* .form-control{
+width:100px;
+} */
+.bacd{
+  border-style: solid;
+   border-width: 1px;
+   background-color: aliceblue; 
+}
+.input{
+  display:inline-flex;
+  margin-top: 10px;
+}
+.space{
+  margin-left: 10px;
+}
+.top{
+  margin-top: 20px;
+}
+.size{
+  width:320px;
+}
+.bor{
+  border-style: solid;
+  border-width: 5px;
+  background-color: var(--dark-red); 
+}
+.class{
+  margin-left: 140px;
+}
+.wrap{
+  display:inline-flex;
+}
+.tr{
+display: flex;
+ justify-content: flex-end;
+ align-items:flex-end;
+ margin-left:20px;
+}
+.br{
+  background-color: blue;
+}
+.ash{
+  background-color: #61dafb;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 10px;
+  border-radius: 15px;
+
+}
+/* .Card{
+  padding-left: 10px;
+} */
+.shift{
+  margin-top: 70px;
+}
+/* .gaurav{
+  width:300px;
+} */
+.line{
+  margin-top:-3px;
+  width: 1100px;
+  background-color: lightgray;
+  height: 1.5px;
+}

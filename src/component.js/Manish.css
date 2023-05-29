@@ -1,0 +1,132 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .react-tabs__tab--selected{
+    margin-right: 50px;
+  }
+  .abc{
+    display: content;
+    margin-right: 50px;
+  }
+  .bac{
+    display:inline-flex;
+    box-sizing: none;
+  }
+  .pointer{
+    cursor: pointer;
+  }
+  .over:hover{
+    text-decoration: underline;
+  }
+  .left{
+    float: left;
+  }
+  /* .form-control{
+  width:100px;
+  } */
+  .bacd{
+    border-style: solid;
+     border-width: 1px;
+     background-color: aliceblue; 
+  }
+  .input{
+    display:inline-flex;
+    margin-top: 10px;
+  }
+  .space{
+    margin-left: 10px;
+  }
+  .top{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .size{
+    width:320px;
+  }
+  .bor{
+    border-style: solid;
+    border-width: 5px;
+    background-color: var(--dark-red); 
+  }
+  .class{
+    margin-left: 140px;
+  }
+  .wrap{
+    display:inline-flex;
+  }
+  .tr{
+  display: flex;
+   justify-content: flex-end;
+   align-items:flex-end;
+   margin-left:20px;
+  }
+  .br{
+    background-color: blue;
+  }
+  .ash{
+    background-color: #61dafb;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+    border-radius: 15px;
+  width: 400px;
+  padding-bottom: 7px;
+  }
+  /* .Card{
+    padding-left: 10px;
+  } */
+  .shift{
+    margin-top: 80px;
+  }
+  /* .gaurav{
+    width:300px;
+  } */
+  .line{
+    margin-top:-3px;
+    width: 1100px;
+    background-color: lightgray;
+    height: 1.5px;
+  }
+  .box{
+    background-color: darkviolet;
+    width: 370px;
+    padding: 15px;
+    margin-top:10px;
+    border-radius: 5px;
+  }
+  
